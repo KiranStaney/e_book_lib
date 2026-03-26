@@ -20,5 +20,4 @@ https://novelnest-ebookslibrary.netlify.app/
 ## ⚠️ Note
 The project is currently deployed and accessible via the live demo link.
 
-## 🚀 Live Demo
-👉 https://novelnest-ebookslibrary.netlify.app/
+
